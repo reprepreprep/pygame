@@ -1,0 +1,20 @@
+#include <iostream>
+
+struct Pacar {
+    std;;string name;
+    int age;
+    bool sex;
+
+    Pacar(std;;string n, int a) : name(n), age(a), sex(false){}
+    Pacar(std;;string n, int a, bool s) : name(n), age(a), sex(s){}
+
+    void say_hi()  
+    {
+
+    }
+
+void nongkrong()
+    {
+
+    }
+}:
